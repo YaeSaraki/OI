@@ -1,6 +1,6 @@
 # OI
 
-#### 介绍
-做题记录
+## 1.做题记录
+## 2.vscode配置
 
-·i dawns
+与 [Github](https://github.com/YaeSaraki/OI) 单向同步
