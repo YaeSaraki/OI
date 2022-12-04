@@ -31,7 +31,8 @@
   "files.associations": {
     "ostream": "cpp",
     "tuple": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "random": "cpp"
   },
   "explorer.sortOrder": "modified"
 }
