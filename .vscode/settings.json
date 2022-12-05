@@ -32,7 +32,11 @@
     "ostream": "cpp",
     "tuple": "cpp",
     "iostream": "cpp",
-    "random": "cpp"
+    "random": "cpp",
+    "chrono": "c",
+    "cstdio": "cpp",
+    "valarray": "cpp",
+    "istream": "cpp"
   },
   "explorer.sortOrder": "modified"
 }
