@@ -10,7 +10,7 @@ int getO();
 int main(){
   int T; cin >> T; while(T--) {
     int L; cin >> L; while(L--) {
-      cin >> _O; int _o= getO();//获得输入的复杂度。若复杂度为常数，则_o(复杂度记录变量)为0
+      cin >> _O; int _o= getO();//获得输入的复杂度。若复杂度为常数，则_o(复杂度记录变量)
     }
   
   }

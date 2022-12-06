@@ -38,5 +38,6 @@
     "valarray": "cpp",
     "istream": "cpp"
   },
-  "explorer.sortOrder": "modified"
+  "explorer.sortOrder": "modified",
+  "terminal.explorerKind": "integrated"
 }
