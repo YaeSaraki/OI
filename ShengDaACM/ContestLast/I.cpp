@@ -1,18 +1,28 @@
 #include <math.h>
+#include <stdio.h>
 
-#include <iostream>
-using namespace std;
-int main() {
-  double x;
+int FindPrime(int n) {
+  int m = sqrt(n) + 1;
+  for (int i = 2; i < m; i++) {
+    if (n % i == 0) return 0;
+  }
+  int sum = 0;
+  while (n) {
+    sum += n % 10;
+    n /= 10;
+  }
+  if (sum % 5 == 0) return 1;
+  return 0;
+}
+
+int main(void) {
   int n;
-  cin >> n;
-  double maxk = (int)((n * 1.0 / 52 - 7) / 21);
-  for (int i = 1; i <= maxk; i++) {
-    x = ((n * 1.0) / 52 - 21 * i) / 7;
-    if (x <= 100) {
-      cout << x << " " << i << endl;
-      break;
-    }
+
+  while (scanf("%d", &n) != EOF) {
+    if (FindPrime(n) == 1)
+      printf("Yes\n");
+    else
+      printf("No\n");
   }
   return 0;
 }

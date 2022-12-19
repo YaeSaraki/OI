@@ -1,19 +1,13 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-string str;
-string windows = "\\n\\r", linux = "\\n";
+#include <math.h>
+#include <stdio.h>
 
 int main() {
-  cin >> str;
-  if (str.find(windows) <= str.length()) {
-    cout << "windows" << endl;
-    return 0;
-  } else if (str.find(linux) <= str.length()) {
-    cout << "linux" << endl;
-    return 0;
-  } else {
-    cout << "mac" << endl;
-    return 0;
-  }
+  int m, n;
+  scanf("%d%d", &m, &n);
+  m *= 1000;
+  if (m % n != 0)
+    printf("%d", m / n + 1);
+  else
+    printf("%d", m / n);
+  return 0;
 }

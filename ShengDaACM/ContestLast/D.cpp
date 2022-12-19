@@ -1,16 +1,14 @@
-#include <math.h>
+#include <stdio.h>
 
-#include <iostream>
-using namespace std;
 int main() {
-  int win = 0;
-  char a1, a2, a3, b1, b2, b3;
-  scanf("%c %c %c\n", &a1, &a2, &a3);
-  scanf("%c %c %c", &b1, &b2, &b3);
-  if (a1 == 'A' && a2 == 'A' && a3 == 'A') win++;
-  if (win)
-    cout << "zh";
-  else
-    cout << "wyz";
+  int year, n;
+  scanf("%d", &n);
+  while (n--) {
+    scanf("%*6d%4d%*8d", &year);
+    if (1922 <= year && year <= 1948) printf("新民主主义革命时期\n");
+    else if (1950 <= year && year <= 1977) printf("社会主义革命和建设时期\n");
+    else if (1979 <= year && year <= 2011) printf("改革开放和社会主义现代化建设新时期\n");
+    else printf("中国特色社会主义新时代\n");
+  }
   return 0;
 }
