@@ -95,7 +95,8 @@
     "sstream": "cpp",
     "streambuf": "cpp",
     "type_traits": "cpp",
-    "unordered_map": "cpp"
+    "unordered_map": "cpp",
+    "deque": "cpp"
   },
   "explorer.sortOrder": "modified",
   "terminal.explorerKind": "integrated",
