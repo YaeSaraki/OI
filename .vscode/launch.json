@@ -1,7 +1,6 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
     {
       "type": "lldb",
       "request": "launch",
@@ -21,7 +20,7 @@
       "cwd": "${fileDirname}",
       "environment": [],
       "externalConsole": false,
-      "MIMode": "lldb",
+      "MIMode": "gdb",
       "preLaunchTask": "C/C++: gcc build active file"
     },
     {
@@ -34,7 +33,7 @@
       "cwd": "${fileDirname}",
       "environment": [],
       "externalConsole": false,
-      "MIMode": "lldb",
+      "MIMode": "gdb",
       "preLaunchTask": "C/C++: g++-11 build active file"
     },
     
