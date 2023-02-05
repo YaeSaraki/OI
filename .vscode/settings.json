@@ -96,7 +96,9 @@
     "streambuf": "cpp",
     "type_traits": "cpp",
     "unordered_map": "cpp",
-    "deque": "cpp"
+    "deque": "cpp",
+    "*.tcc": "cpp",
+    "stack": "cpp"
   },
   "explorer.sortOrder": "default",
   "terminal.explorerKind": "integrated",
