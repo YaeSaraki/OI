@@ -1,59 +1,47 @@
-#include <algorithm>
 #include <iostream>
 #include <map>
 #include <queue>
-#include <vector>
-
+#include <fstream>
 using namespace std;
 
-vector<queue<int> > teamQueue;
-queue<int> number_noTeam;
-map<int, int> queueNumber;
-
-void Enqueue(), Dequeue();
+// #define cout fout
+// #define cin fin
+// ifstream fin("test.in", ios::in);
+// ofstream fout("test.out", ios::out);
 
 int main() {
   int n, scenarioTime = 0;
-  while (cin >> n, n) {
-    cout << "Scenario #" << ++scenarioTime << endl;
+  while (scanf("%d", &n), n != 0) {
+    map<int, int> number_team;  
+    printf("Scenario #%d", ++scenarioTime);
     for (int i = 0; i < n; ++i) {
-      int m; cin >> m;
-      queue<int> tempQueue;
+      int m; scanf("%d", &m);
       for (int j = 0; j < m; ++j) {
-        int x; cin >> x;
-        tempQueue.push(x);
-        queueNumber.insert(pair<int, int>(x, 0));
+        int x; scanf("%d", &x);
+        number_team[x] = i;
       }
-      teamQueue.push_back(tempQueue);
     }
-    string input;
-    while (cin >> input, input != "STOP") {
-      if (input == "ENQUEUE") Enqueue();
-      if (input == "DEQUEUE") Dequeue();
+    char input[66];
+    queue<int> teamQueue, numberQueue[10010];  
+    while (scanf("%s", input), input[0] != 'S') {
+      if (input[0] == 'E') {
+        int number;
+        scanf("%d", &number);
+        int team = number_team[number];
+        if (numberQueue[team].empty()) teamQueue.push(team);
+        numberQueue[team].push(number);
+      }
+      if (input[0] == 'D') {
+        int team = teamQueue.front();
+        if (!numberQueue[team].empty()) {
+          printf("%d\n", numberQueue[team].front());
+          numberQueue[team].pop();
+        }
+        if (numberQueue[team].empty()) teamQueue.pop();
+      }
     }
-    cout << endl;
+    printf("\n");
   }
   return 0;
 }
 
-void Enqueue() {
-  int number; cin >> number;
-  if (queueNumber.find(number) == queueNumber.end()) {
-    queueNumber.insert(pair<int, int>(number, 1));
-    number_noTeam.push(number);
-    teamQueue.push_back(number_noTeam);
-  } else {
-    queueNumber[number]++;
-  }
-}
-
-void Dequeue() {
-  for (int i = 0; i < teamQueue.size(); ++i) {
-    while (!teamQueue[i].empty() && queueNumber[teamQueue[i].front()] > 0) {
-      cout << teamQueue[i].front() << endl;
-      queueNumber[teamQueue[i].front()]--;
-      teamQueue[i].pop();
-      return;
-    }
-  }
-}

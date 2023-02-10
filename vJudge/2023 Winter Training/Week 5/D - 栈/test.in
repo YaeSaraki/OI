@@ -1,0 +1,8 @@
+7
+push 12
+push 142
+push 456
+sum
+pop
+sum
+out
