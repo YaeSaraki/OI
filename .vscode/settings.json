@@ -105,5 +105,6 @@
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "explorer.sortOrderLexicographicOptions": "unicode",
-  "workbench.tree.indent": 4
+  "workbench.tree.indent": 4,
+  "autoDarkMode.lightTheme": "GitHub Light "
 }
