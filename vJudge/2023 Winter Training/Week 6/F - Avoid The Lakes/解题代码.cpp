@@ -5,8 +5,10 @@
 
 using namespace std;
 
-// #define cin fin
+#define cin fin
+#define cout fout
 ifstream fin("test.in");
+ofstream fout("test.out");
 
 const int FARLANDS = 101;
 int n, m;
@@ -45,7 +47,6 @@ void DepthFirstSearch(int x_now, int y_now) {
       ++pockets;
       haspassed[y_next][x_next] = true;
       DepthFirstSearch(x_next, y_next);
-
     }
   }
   return;

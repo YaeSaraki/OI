@@ -6,8 +6,10 @@
 using namespace std;
 using ll = long long;
 
-// #define cin fin
+#define cin fin
+#define cout fout
 ifstream fin("test.in");
+ofstream fout("test.out");
 
 struct Node {
   int floor, time;
