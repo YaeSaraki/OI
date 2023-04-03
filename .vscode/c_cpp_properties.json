@@ -12,6 +12,23 @@
       "compilerArgs": [
         ""
       ]
+    },
+    {
+      "name": "windwos-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+        "D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+        "D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+        "D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+        "D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+        "D:/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+      ],
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "compilerArgs": [
+        ""
+      ]
     }
   ],
   "version": 4

@@ -98,7 +98,9 @@
     "unordered_map": "cpp",
     "deque": "cpp",
     "*.tcc": "cpp",
-    "stack": "cpp"
+    "stack": "cpp",
+    "__tree": "cpp",
+    "set": "cpp"
   },
   "explorer.sortOrder": "default",
   "terminal.explorerKind": "integrated",
@@ -106,5 +108,5 @@
   "editor.insertSpaces": true,
   "explorer.sortOrderLexicographicOptions": "unicode",
   "workbench.tree.indent": 4,
-  
+  "C_Cpp_Runner.useAddressSanitizer": false
 }

@@ -1,6 +1,5 @@
-# OI
-
-## 1.做题记录
-## 2.vscode配置
-
-与 [Github](https://github.com/YaeSaraki/OI) 单向同步
+# **ACM实验室** 
+> 咨询楼514
+## 注意事项：
+1. 文明礼貌
+2. 电脑一共
