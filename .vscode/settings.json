@@ -100,7 +100,8 @@
     "*.tcc": "cpp",
     "stack": "cpp",
     "__tree": "cpp",
-    "set": "cpp"
+    "set": "cpp",
+    "*.ccp": "cpp"
   },
   "explorer.sortOrder": "default",
   "terminal.explorerKind": "integrated",
