@@ -3,21 +3,17 @@
 using namespace std;
 
 const int N = 100100;
-int head, e[N], ne[N], idx;
 
-void Init() { head = -1, idx = 0; }
-
-void Add_to_head(int n) { //在头节点插入数据
-  e[idx] = n;
+int e[N], ne[N], idx, head;
+void init() { head = -1, idx = 0; }
+void removepo(int k) { ne[k] = ne[ne[k]]; }
+void insert_to_head(int x) {
+  e[idx] = x;
   ne[idx] = head;
   head = idx++;
 }
-void Add(int k, int n) { //普通插入
-  e[idx] = n;
+void insert(int k, int x) {
+  e[idx] = x;
   ne[idx] = ne[k];
   ne[k] = idx++;
-}
-
-int main() {
-
 }

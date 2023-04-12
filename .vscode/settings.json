@@ -108,5 +108,7 @@
   "editor.insertSpaces": true,
   "explorer.sortOrderLexicographicOptions": "unicode",
   "workbench.tree.indent": 4,
-  "C_Cpp_Runner.useAddressSanitizer": false
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "editor.hover.delay": 200,
+  "editor.quickSuggestionsDelay": 10
 }
