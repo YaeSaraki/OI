@@ -123,14 +123,15 @@
     "scoped_allocator": "cpp",
     "shared_mutex": "cpp",
     "thread": "cpp",
-    "typeindex": "cpp"
+    "typeindex": "cpp",
+    "queue": "cpp"
   },
   "explorer.sortOrder": "default",
   "terminal.explorerKind": "integrated",
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "explorer.sortOrderLexicographicOptions": "unicode",
-  "workbench.tree.indent": 4,
+  "workbench.tree.indent": 8,
   "C_Cpp_Runner.useAddressSanitizer": false,
   "editor.hover.delay": 200,
   "editor.quickSuggestionsDelay": 10

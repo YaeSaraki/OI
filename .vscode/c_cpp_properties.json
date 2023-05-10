@@ -3,6 +3,7 @@
       {
         "name": "macos-gcc-x64",
         "includePath": [
+          "${default}",
           "${workspaceFolder}/**"
         ],
         "compilerPath": "/usr/bin/gcc",
