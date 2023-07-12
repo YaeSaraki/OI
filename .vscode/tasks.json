@@ -18,7 +18,7 @@
         "echo": true,
         "reveal": "always",
         "focus": false,
-        "panel": "new"
+        "panel": "shared"
       },
       "problemMatcher": "$gcc"
     },
@@ -36,6 +36,12 @@
       ],
       "options": {
         "cwd": "${fileDirname}"
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
       },
       "problemMatcher": [
         "$gcc"

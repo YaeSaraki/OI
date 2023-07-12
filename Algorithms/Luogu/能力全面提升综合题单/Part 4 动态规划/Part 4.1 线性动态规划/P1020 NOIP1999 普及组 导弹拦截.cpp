@@ -20,7 +20,6 @@ int main() {
     if (h[r2] < a[i]) h[++r2] = a[i];
     else *lower_bound(h, h + r2, a[i]) = a[i]; 
   }
-  
   cout << r1 + 1 << " " << r2 + 1 << '\n'; 
   return 0;
 }

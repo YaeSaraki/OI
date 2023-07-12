@@ -1,42 +1,42 @@
+/** 
+ * \link: https://www.luogu.com.cn/problem/P1868
+ * \category: dp 动态规划
+ * 
+ * \date: Mon Jul 10 16:46:21 CST 2023
+ * \note: 
+ **/
 #include <iostream>
 #include <algorithm>
+#include <vector>
 using namespace std;
-
-
-int f[200200];
-struct Data {
-  int head, tail, val;
-  bool operator<(const Data &A) const { return tail < A.tail; }
-} holy[200200];
-
-int My_lower_bound(int l, int r, int val) {
-  int ans = 0;
-  while (l <= r) {
-    int mid = (l + r) >> 1;
-    if (holy[mid].tail < val) ans = mid, l = mid + 1;
-    else r = mid - 1;
-  }
-  return ans;
-}
+using PI = pair<int, int>;
 
 inline void solve() {
   int n; cin >> n;
+  vector<PI> v(n + 1);
+  vector<int> dp(n + 2);
   for (int i = 1; i <= n; ++i) {
-    cin >> holy[i].head >> holy[i].tail;
-    holy[i].val = holy[i].tail - holy[i].head + 1;
+    int x, y; cin >> x >> y;
+    v.at(i) = {y, x};
   }
-  sort(holy + 1, holy + n + 1);
-  for (int i = 1; i <= n; ++i) f[i] = max(f[i - 1], f[My_lower_bound(1, i, holy[i].head)] + holy[i].val);
-  return cout << f[n], void();
+  sort(v.begin() + 1, v.end());
+  // for (auto it : v) cout << it.first << " "; 
+  for (int i = 1; i <= n; ++i) {
+    int last = lower_bound(v.begin() + 1, v.begin() + 1 + i - 1, make_pair(v.at(i).second, 0)) - v.begin() - 1;
+    int value = v.at(i).first - v.at(i).second + 1;
+    dp.at(i) = max(dp.at(last) + value, dp.at(i - 1));
+  }
+  cout << dp.at(n) << '\n';
+  return ;
 }
 
 bool rt = false;
-int main() {
+signed main() {
   ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
   #ifndef ONLINE_JUDGE
   freopen("test.in", "r", stdin);
   #endif
-  if (rt) {int T; cin >> T; while (T--) solve(); }
+  if (rt) { int T; cin >> T; while (T--) solve(); }
   else solve();
   return (0 ^ 0);
 }

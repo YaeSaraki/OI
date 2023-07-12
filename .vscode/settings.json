@@ -261,11 +261,13 @@
     "/w44265",
     "/w14928"
   ],
-  "C_Cpp_Runner.useUndefinedSanitizer": false,
+  "C_Cpp_Runner.useUndefinedSanitizer": true,
   "C_Cpp_Runner.useLeakSanitizer": false,
-  "C_Cpp_Runner.showCompilationTime": false,
+  "C_Cpp_Runner.showCompilationTime": true,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "cmake.configureOnOpen": false,
   "explorer.excludeGitIgnore": false,
-  "search.useIgnoreFiles": true
+  "search.useIgnoreFiles": true,
+  "C_Cpp.clang_format_fallbackStyle": "google",
+  "editor.fontSize": 14
 }

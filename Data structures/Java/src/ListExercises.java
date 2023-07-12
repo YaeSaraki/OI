@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 public class ListExercises {
   private static int sum(List<Integer> lst) { // * returns the total sum of the elements in list.

@@ -9,29 +9,34 @@
 #include <cmath>
 #include <cstring>
 #include <iostream>
-#include <map>
 #include <numeric>
 #include <set>
 
 using namespace std;
 
 int n;
-const int kN = 2023;
-int ne[kN], enemy[kN];
+int t = 0;
+const int kN = 100100;
+int f[2 * kN];
 
-int find(int x) { return ne[x] == x ? x : find(ne[x]); }
-void join(int x, int y) { ne[find(x)] = find(y); }
-
-inline void init() {
-  memset(enemy, 0, sizeof enemy);
-  iota(ne + 1, ne + 1 + n, 1);
-}
+int Find(int x) { return f[x] == x ? x : f[x] = Find(f[x]); }
 
 inline void solve() {
   int flag = 0;
   int q; cin >> n >> q;
-  
-  if (flag) cout << "No suspicious bugs found!" << '\n';
+  iota(f, f + (n * 2) + 1, 0);
+  for (int i = 0; i < q; ++i) {
+    int x, y; cin >> x >> y;
+    if (flag) continue;
+    /** Find x & y. */
+    x = Find(x), y = Find(y);
+    /** Union. */
+    int a = Find(x + n), b = Find(y + n);
+    if (x != y) f[a] = y, f[b] = x;
+    else flag = 1;
+  }
+  cout << "Scenario #" << ++t << ":\n"; 
+  if (!flag) cout << "No suspicious bugs found!" << '\n';
   else cout << "Suspicious bugs found!" << '\n';
 }
 

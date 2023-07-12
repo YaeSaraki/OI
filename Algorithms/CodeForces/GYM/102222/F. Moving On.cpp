@@ -25,7 +25,7 @@ int dp[kN][kN][kN];
 
 bool cmp(int a, int b) { return r[a] < r[b]; }
 
-void init() {
+void Floyd() {
   for (int k = 1; k <= n; ++k) {
     for (int i = 1; i <= n; ++i) {
       for (int j = 1; j <= n; ++j) {
@@ -41,7 +41,7 @@ void inline solve() {
   sort(id + 1, id + n + 1, cmp);
   for (int i = 1; i <= n; ++i)
     for (int j = 1; j <= n; ++j) cin >> dp[i][j][0];
-	init();
+	Floyd();
   cout << "Case #" << rod++ << ":\n";
   while (q--) {
     cin >> s >> e >> w;
