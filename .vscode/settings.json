@@ -269,5 +269,6 @@
   "explorer.excludeGitIgnore": false,
   "search.useIgnoreFiles": true,
   "C_Cpp.clang_format_fallbackStyle": "google",
-  "editor.fontSize": 14
+  "editor.fontSize": 14,
+  "editor.cursorStyle": "line"
 }

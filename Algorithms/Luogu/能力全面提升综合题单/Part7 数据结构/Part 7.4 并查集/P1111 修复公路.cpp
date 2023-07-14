@@ -32,7 +32,6 @@ inline void solve() {
 
   for (auto &elem : v) cin >> elem.v1 >> elem.v2 >> elem.t;
   /** 并查集. */
-
   sort(v, v + m);
   int cnt = 0;
   for (int i = 0; i < m; ++i) {

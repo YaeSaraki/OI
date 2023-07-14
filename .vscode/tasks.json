@@ -32,7 +32,7 @@
         "${file}",
         "-o",
         "${fileDirname}/bin/${fileBasenameNoExtension}",
-        "-std=c++11"
+        "-std=c++17"
       ],
       "options": {
         "cwd": "${fileDirname}"
@@ -62,7 +62,7 @@
         "${file}",
         "-o",
         "${fileDirname}/bin/${fileBasenameNoExtension}.exe",
-        "-std=c++11"
+        "-std=c++17"
       ],
       "options": {
         "cwd": "${fileDirname}"
