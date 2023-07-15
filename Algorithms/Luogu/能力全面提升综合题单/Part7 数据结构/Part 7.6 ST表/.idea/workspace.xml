@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41d3dcc0-2b8c-4ce3-bd4e-14ce1dcba1ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Part 7.6 ST表.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/Problem/3540. 二叉搜索树.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/Problem/3598. 二叉树遍历.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/每日一题/2023春季每日一题/Week 1/3384. 二叉树遍历.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/每日一题/2023春季每日一题/Week 1/4956. 冶炼金属.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/每日一题/2023春季每日一题/Week 1/4957. 飞机降落.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/每日一题/2023春季每日一题/Week 1/4958. 接龙数列 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/每日一题/2023春季每日一题/Week 1/4964. 子矩阵.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/每日一题/2023蓝桥杯集训·每日一题/Week 1/3729. 改变数组元素.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/每日一题/2023蓝桥杯集训·每日一题/Week 1/3729. 改变数组元素.dSYM/Contents/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/每日一题/2023蓝桥杯集训·每日一题/Week 1/3729. 改变数组元素.dSYM/Contents/Resources/DWARF/3729. 改变数组元素" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/每日一题/2023蓝桥杯集训·每日一题/Week 1/3956. 截断数组.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x00 基本算法/位运算/89. 快速幂.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x00 基本算法/位运算/90. 64位整数乘法.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x00 基本算法/位运算/91. 最短Hamilton路径.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x00 基本算法/位运算/998. 起床困难综合症.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x00 基本算法/递推与递归/92. 递归实现指数型枚举.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x00 基本算法/递推与递归/93. 递归实现组合型枚举.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x00 基本算法/递推与递归/94. 递归实现排列型枚举.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x00 基本算法/递推与递归/95. 费解的开关.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x00 基本算法/递推与递归/96. 奇怪的汉诺塔.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x00 基本算法/递推与递归/97. 约数之和 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x10 基本数据结构/Hash/137. 雪花雪花雪花.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x10 基本数据结构/Hash/138. 兔子与兔子.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x10 基本数据结构/Stack/128. 编辑器.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x10 基本数据结构/Stack/129. 火车进栈.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x10 基本数据结构/Stack/130. 火车进出栈问题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x10 基本数据结构/Stack/131. 直方图中最大的矩形.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x10 基本数据结构/Stack/41. 包含min函数的栈.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x10 基本数据结构/Trie/142. 前缀统计.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../AcWing/算法竞赛进阶指南/0x10 基本数据结构/二叉堆/145. 超市.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/2023 CCPC Henan Provincial Collegiate Programming Contest/A 小水獭游河南.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Completion/12.1 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Completion/12.2 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Completion/16.1 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Completion/16.2 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Completion/16.3 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Completion/18.2 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Completion/18.4 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Completion/19.2 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Completion/19.4 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Completion/21.1 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Completion/Markdown/蓝桥杯选择题训练.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Contest/2021/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Contest/2021/A.dSYM/Contents/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Contest/2021/A.dSYM/Contents/Resources/DWARF/A" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Contest/2021/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Contest/2021/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Contest/2021/G.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/Lanqiao/Contest/2021/Markdown/2021省赛 C++ B组.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/2021新生程序设计大赛/466. 石子游戏2020.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/2021新生程序设计大赛/769. 天理的维系者的进制魔法.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/2021新生程序设计大赛/770. 好耶！是大冒险.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/2021新生程序设计大赛/771. 质数区间.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/2021新生程序设计大赛/777. 原来，你也玩原神.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/2021新生程序设计大赛/778. 小 w 的数学题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/Nyist/2022南阳理工邀请赛题解.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/Nyist/A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Leetcode/ProrityQueue/kth-largest-element-in-a-stream.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/Nyist/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/Nyist/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/Nyist/D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/Nyist/E.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/Nyist/F.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/Nyist/G.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/Nyist/H.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Leetcode/ProrityQueue/kth-largest-element-in-an-array.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/Nyist/I.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Leetcode/ProrityQueue/merge-k-sorted-lists.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/Contest/NyistACM/Nyist/J.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Leetcode/ProrityQueue/relative-ranks.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/1/binarySearch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/1/mergeSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/1/quickSort.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/1/大数问题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/2/Link.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/2/Link2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/2/quickReadWrite.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/替补队-模板.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/梁聪/liangcong.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/梁聪/liangcong.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/模板.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/模板.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Leetcode/ProrityQueue/ugly-number-ii.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/范硕/fanshuo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/templates/赵赫/zhaohe.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/test/1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Category/test/C++/Class.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 859 (Div. 4)/A. Plus or Minus.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 859 (Div. 4)/B. Grab the Candies.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 859 (Div. 4)/C. Find and Replace.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 859 (Div. 4)/D. Odd Queries.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 859 (Div. 4)/F.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 859 (Div. 4)/G1 Subsequence Addition (Easy Version).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 859 (Div. 4)/G2 Subsequence Addition (Hard Version).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 869 (Div. 2)/A. Politics.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 869 (Div. 2)/B. Indivisible.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 869 (Div. 2)/C. Almost Increasing Subsequence.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 872 (Div. 2)/A. LuoTianyi and the Palindrome String.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 872 (Div. 2)/B. LuoTianyi and the Table.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 874 (Div. 3)/A. Musical Puzzle.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 874 (Div. 3)/B. Restore the Weather.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 874 (Div. 3)/C. Vlad Building Beautiful Array.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 874 (Div. 3)/editorial/1833C - Vlad Building Beautiful Array.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 882 (Div. 2)/A. The Man who became a God.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Codeforces Round 882 (Div. 2)/B. Hamon Odyssey.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Educational Codeforces Round 148 (Div. 2)/A. New Palindrome.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Educational Codeforces Round 148 (Div. 2)/B. Maximum Sum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Educational Codeforces Round 148 (Div. 2)/editorial/1832A - New Palindrome.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Educational Codeforces Round 149 (Rated for Div. 2)/A. Grasshopper on a Line.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Educational Codeforces Round 149 (Rated for Div. 2)/B. Comparison String.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Educational Codeforces Round 151 (Rated for Div. 2)/A. Forbidden Integer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Educational Codeforces Round 151 (Rated for Div. 2)/B. Come Together.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Educational Codeforces Round 151 (Rated for Div. 2)/C. Strong Password.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/Educational Codeforces Round 151 (Rated for Div. 2)/D. Rating System.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/VK Cup 2015 - Qualification Round 1/A. Reposts.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Contest/list.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/102222/A. Maximum Element In A Stack.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/102222/C. Caesar Cipher.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/102222/F. Moving On.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/102222/H. Fight Against Monsters.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/103941/A Mocha 上小班啦.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/103941/E Serval 的俳句.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/103941/F 集合之和.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/103941/G Mocha 上大班啦.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/103941/H 旋转水管.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/104081/A. 减肥计划.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/104081/C. 测量学.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/104081/E. 睡觉.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/104081/I. 宠物对战.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/GYM/List.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/#106. The equation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/100. A+B.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/102. Coprimes.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/105. Div 3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/112. a^b-b^a.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/113. Nearly prime numbers.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/123. The sum.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/184. Patties.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/231. Prime Sum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/358. Median of Medians.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/403. Scientific Problem.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/404. Fortune-telling with camomile.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/460. Plural Form of Nouns.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/486. ^Bulls and Cows^.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../CodeForces/Problem/ACMSGURU/499. Greatest Greatest Common Divisor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/115. 不同的子序列.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/139. 单词拆分.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/1438. 绝对差不超过限制的最长连续子数组.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/167. 两数之和 II.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/239. 滑动窗口最大值.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/2401. 最长优雅子数组.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/3. 无重复字符的最长子串.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/32. 最长有效括号.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/42. 接雨水.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/496. 下一个更大元素 I.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/581. 最短无序连续子数组.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/705. 设计哈希集合.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/739. 每日温度.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/856. 括号的分数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/859. 亲密字符串.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Leetcode/918. 环形子数组的最大和.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Problems/P1886 滑动窗口 or 单调队列/multiset.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Problems/P1886 滑动窗口 or 单调队列/normal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Problems/P1886 滑动窗口 or 单调队列/priority_queue.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Problems/P2840 纸币问题 2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Problems/P2842 纸币问题 1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Problems/P3254 圆桌问题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Problems/P7223 RC 04 01 背包.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Problems/单词分析.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.1 模拟/P1003[NOIP2011 提高组]铺地毯.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.1 模拟/P1042[NOIP2003 普及组] 乒乓球.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.1 模拟/P1067[NOIP2009 普及组]多项式输出.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.1 模拟/P1179[NOIP2010普及组] 数字统计.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.1 模拟/P1328[NOIP2014 提高组]石头剪刀布+.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.1 模拟/P1563[NOIP2016 提高组]玩具谜题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.1 模拟/P2615[NOIP2015提高组]神奇的幻方.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.1 模拟/P3952[NOIP2017提高组]时间复杂度.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.1 模拟/ProblemSet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.2 排序算法/P1177 快速排序.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.4 分治/P1010 NOIP1998 普及组 幂次方.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.4 分治/P1226 快速幂 取余运算.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 2 基础算法/Part 2.4 分治/P3612 USACO17JAN Secret Cow Code S.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 3 搜索/Part 3.1 深度优先搜索/P1019 NOIP2000 提高组 单词接龙 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 3 搜索/Part 3.1 深度优先搜索/P1219 USACO1.5 八皇后 Checker Challenge.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 4 动态规划/Part 4.1 线性动态规划/P1020 NOIP1999 普及组 导弹拦截.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 4 动态规划/Part 4.1 线性动态规划/P1091 NOIP2004 提高组 合唱队形.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 4 动态规划/Part 4.1 线性动态规划/P1095 NOIP2007 普及组 守望者的逃离.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 4 动态规划/Part 4.1 线性动态规划/P1216 IOI1994 数字三角形 Number Triangles.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 4 动态规划/Part 4.1 线性动态规划/P1541 NOIP2010 提高组 乌龟棋.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 4 动态规划/Part 4.1 线性动态规划/P1868 饥饿的奶牛.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 4 动态规划/Part 4.2 背包动态规划/P1048 NOIP2005 普及组 采药/DFS+.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Part 4 动态规划/Part 4.2 背包动态规划/P1048 NOIP2005 普及组 采药/DFS.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 7.3 队列/P1540 NOIP2010 提高组 机器翻译.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 7.4 并查集/P1111 修复公路.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 7.5 二叉堆/NOIP2004 提高组 合并果子 USACO06NOV Fence Repair G.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Part 7.5 二叉堆/P3378 模版 堆.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P1198 [JSOI2008] 最大数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P1816.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P2251 质量检测.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P2880_BalancedLineupG.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/P3865 模版 ST 表.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Nowcoder/Contest/2023河南萌新联赛第一场 河南农业大学/E 动物朋友.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Nowcoder/Contest/2023河南萌新联赛第一场 河南农业大学/F 松鼠排序.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Nowcoder/Contest/2023河南萌新联赛第一场 河南农业大学/G Reverse.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Nowcoder/Contest/2023河南萌新联赛第一场 河南农业大学/H 迷宫探险.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Nowcoder/Contest/2023河南萌新联赛第一场 河南农业大学/J 合唱比赛.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Nowcoder/Contest/2023河南萌新联赛第一场 河南农业大学/K 以撒和隐藏房间.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Nowcoder/Problems/Masha与老鼠.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Nowcoder/Problems/NC14666最优屏障.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Nowcoder/Problems/NC15029吐泡泡.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Nowcoder/Problems/NC4326Rails.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/2023年第五届CCPC河南省大学生程序设计竞赛 热身赛/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/2023年第五届CCPC河南省大学生程序设计竞赛 热身赛/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/2023年第五届CCPC河南省大学生程序设计竞赛 热身赛/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/2023年第五届CCPC河南省大学生程序设计竞赛 热身赛/D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/2023年第五届CCPC河南省大学生程序设计竞赛 热身赛/E.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/2023年第五届CCPC河南省大学生程序设计竞赛 热身赛/F.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/2023年第五届CCPC河南省大学生程序设计竞赛 热身赛/G.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/2023年第五届CCPC河南省大学生程序设计竞赛 热身赛/H.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/2023年第五届CCPC河南省大学生程序设计竞赛 热身赛/I.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/2023年第五届CCPC河南省大学生程序设计竞赛 热身赛/J.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/2023年第五届CCPC河南省大学生程序设计竞赛 热身赛/K.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-001 Hello World.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-002 打印沙漏.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-003 个位数统计.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-004 计算摄氏温度.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-005 考试座位号.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-006 连续因子.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-007 念数字.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-008 求整数段和.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-010 比较大小.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-011 A-B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-012 计算指数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-013 计算阶乘和.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-014 简单题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-015 跟奥巴马一起画方块.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-016 查验身份证.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-017 到底有多二.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-018 大笨钟.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/Pintia/团体程序设计天梯赛-练习集/L1-019 谁先倒.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1000整数a+b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1001植树问题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1070小汽车的位置.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1071分解质因子.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1095时间间隔.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1096水仙花数.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1097计算平均成绩.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1098复合函数求值.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1099角谷猜想.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1100求组合数.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1101逆序数字.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1102火车票退票费计算.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1103平均学分绩点.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1104求因子和.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1105判断友好数对.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1106回文数.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1107回文数猜想.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1108+打印数字图形^2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1108+数字图形2^2.c.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1108打印数字图形.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1108打印数字图形2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1109数根.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1110最近共同祖先.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1111多个整数的逆序输出.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1112进制转换.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1113递归调用的次数统计.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1114逆序.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1115数组最小值.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1116删除元素.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1117查找数组元素.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1118数列有序.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1119一维数组排序.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1120最值交换.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1121电梯.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1122小明的调查作业.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1123最佳校友.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1124两个有序数组合并.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1125上三角矩阵的判断.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1126布尔矩阵的奇偶性.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1127矩阵乘积.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1128课程平均分.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1129第几天.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1130小数点后第n位.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1130小数点后第n位1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1131进制转换.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1132二进制数的大小.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1133最大值_多种进制.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1134多种进制.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1135有问题的里程表-2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1136吃糖果.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1137查找子数组.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1138组合三位数之一.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1139组合三位数之二.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1140数数多少个整数.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1141大整数加法.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1142二分搜索.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1143简易版最长序列.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1144校门外的树.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1145字符串比较.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1146单数变复数.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1147连续的n个1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1148又是排序.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1149最大的两个数.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1150矩阵的最大值.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1151字符串长度.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1152循环移动.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1153亲和串.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1154在线判题.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1155实数的小数部分.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1156实数取整.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1169带参宏定义.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1191数字字符统计.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1192单词个数统计.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1196查找最大元素.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1198输出最短字符串.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1199 18岁生日.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1213孪生素数.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1239 又一版 A+B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/1405打印字符＾蓝桥杯2015.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/export_ac_code.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/test.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ACM/辗转相除.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestLast/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestLast/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestLast/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestLast/D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestLast/E.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestLast/F.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestLast/G .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestLast/H.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestLast/I.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestLast/J.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestLast/K.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestLast/L.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestZip/ContestLast.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestZip/二二级第一次周赛.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/ContestZip/二二级第二次周赛.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/5/Problem A 聚餐人数统计.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/5/Problem B 时间间隔.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/5/Problem C 水仙花数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/5/Problem D 计算平均成绩.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/5/Problem E 逆序数字.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/5/Problem F 第二日问题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/5/Problem G 和尚特烦恼2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/5/Problem H 和尚的烦恼3.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/5/Problem I 镂空三角形.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/5/Problem J 最强魔法师.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/5/ProblemSet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/6/Problem A n个数求和.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/6/Problem B ASCII码排序.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/6/Problem C 获取出生日期.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/6/Problem D 生日天数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/6/Problem E 逆序.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/6/Problem F 兔子繁殖问题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 1/6/Problem G 母牛繁殖.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 12/问题 A 查询记录 结构体专题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 12/问题 B 添加记录 结构体专题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 12/问题 C 删除记录 结构体专题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 12/问题 D 单科成绩排序 结构体专题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 12/问题 E 总成绩排序 结构体专题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 12/问题 F 猴子选大王 结构体专题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 12/问题 G 数星星 二 结构体专题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 12/问题 H 考试排名 一 结构体专题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 12/问题 I 考试排名 二 结构体专题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 12/问题 J 杨辉三角形.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 7/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 7/B.ccp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 7/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 7/D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 7/E.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 7/F.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 7/G.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 7/H.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 7/I.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 7/J.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/ShengdaOJ/Homework/Term 2/Week 7/K.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/UVa/UVA1589 象棋 Xiangqi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../OJ/UVa/UVA213 信息解码 Message Decoding.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 1/Cantor 表.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 1/Markdown/周测 1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 1/Markdown/寒训测试.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 1/今年暑假不AC.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 1/均分纸牌.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 1/幂次方.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 1/线性筛素数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 1/航班时间.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/A.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/E.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/F.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/G.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/H.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/I.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/II.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/J.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 11/未命名1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 2/Markdown/周测 2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 2/P1042[NOIP2003 普及组] 乒乓球.cpp alias" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 2/回文质数 Prime Palindromes.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 2/线性筛素数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 2/部分背包问题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 3/Markdown/周测 3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 3/分巧克力.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 3/刷题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 3/日期问题.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 3/求和.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 4/CD.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 4/Conformity.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 4/Markdown/复杂度分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 4/Markdown/指针.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 4/分数线划定.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 4/地毯.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 4/拼数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 4/最大子段和.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 4/纪念品分组.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 4/跳跳.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 6/H/H.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 6/H/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 6/H/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 6/J/J.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 6/J/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 6/J/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 6/K/K.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 6/M/M.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 6/M/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 6/M/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 6/Markdown/周测 4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 7/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 7/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 7/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 7/D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 7/E.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 7/F.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 7/G.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 7/H.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 7/I.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 7/J.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 8/Codeforces Round 859 (Div. 4) - 快捷方式.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/452.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/452.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/B.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/C.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/D.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/E.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/F.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/G.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/H.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/I.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/II.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/J.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/未命名1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/未命名1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/未命名2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/未命名2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/未命名3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/未命名3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/未命名4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2022 - 2023/Week 9/未命名4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 1/Codeforces GYM 102222" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 2/A.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 2/B - Parity game.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 2/F - Pairs Forming LCM.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 2/G - A Bugs Life .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 2/I - Harmonic Number (II).cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/A Mocha 上小班啦/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/A Mocha 上小班啦/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/A Mocha 上小班啦/testin.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/A Mocha 上小班啦/testout.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/A Mocha 上小班啦/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/A Mocha 上小班啦/解题报告.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/Codeforces GYM 103942" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/E Serval 的俳句/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/E Serval 的俳句/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/E Serval 的俳句/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/E Serval 的俳句/解题思路.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/F 集合之和/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/F 集合之和/生成test.in标程.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/F 集合之和/生成test.out标程.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/F 集合之和/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/F 集合之和/解题报告.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/G Mocha 上大班/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/G Mocha 上大班/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/G Mocha 上大班/生成test.in标程.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/G Mocha 上大班/生成test.out标程.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/G Mocha 上大班/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/G Mocha 上大班/解题报告.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/H 旋转水管/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/H 旋转水管/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/H 旋转水管/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/H 旋转水管/解题思路.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/ProblemSet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/梁聪.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/范硕.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 3/赵赫.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 4/A. Odd Divisor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 4/C - Palindrome with leading zeros.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 4/D - Weak Takahashi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 4/E - A and B and Compilation Errors.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 4/F - Caesar Cipher.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 4/I - Fox And Snake.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 4/J - Compass Walking.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 4/K - Send More Money.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 5/A - 12强赛.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 5/B - 方格填数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 5/C - Average of Two Numbers.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 5/D - Sum Them.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 5/G - 洞穴探宝.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 5/J - String Set.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 6/河南省第十三届ICPC大学生程序设计竞赛/A 祝融传火.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 6/河南省第十三届ICPC大学生程序设计竞赛/F 图像识别.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 6/河南省第十三届ICPC大学生程序设计竞赛/I 七便士.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 6/河南省第十三届ICPC大学生程序设计竞赛/J 甜甜圈.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 7/D - Wave.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 7/F - String.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 7/G - Traffic.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 7/I - Budget.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 7/J - Worker.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Train 1/Day 7/K - Class.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/A - 上学迟到/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/A - 上学迟到/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/A - 上学迟到/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/B - 国王的魔镜/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/B - 国王的魔镜/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/B - 国王的魔镜/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/C - 过滤多余的空格/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/C - 过滤多余的空格/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/C - 过滤多余的空格/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/D - 最长最短单词/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/D - 最长最短单词/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/D - 最长最短单词/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/E - 石头剪子布/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/E - 石头剪子布/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/E - 石头剪子布/题目.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/F - 忽略大小写的字符串比较/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/F - 忽略大小写的字符串比较/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/F - 忽略大小写的字符串比较/题目.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/G - 校门外的树/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/G - 校门外的树/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/G - 校门外的树/题目.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/H - 蛇形方阵/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/H - 蛇形方阵/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/H - 蛇形方阵/题目.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/I - 全排列/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/I - 全排列/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/I - 全排列/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/I - 全排列/题目.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/J - 放苹果/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/J - 放苹果/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/J - 放苹果/题目.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 1/生成test.in标程.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/A - 二分查找一/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/A - 二分查找一/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/A - 二分查找一/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/A - 二分查找一/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/A - 二分查找一/题目.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/B - 二分查找二/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/B - 二分查找二/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/B - 二分查找二/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/B - 二分查找二/题目.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/C - 二分查找三/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/C - 二分查找三/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/C - 二分查找三/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/C - 二分查找三/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/C - 二分查找三/题目.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/D - 二分查找四/in.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/D - 二分查找四/out.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/D - 二分查找四/实现代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/D - 二分查找四/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/D - 二分查找四/题目.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 2/生成test.in标程.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/A - 高精度加法/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/A - 高精度加法/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/A - 高精度加法/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/A - 高精度加法/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/A - 高精度加法/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/B - 高精度减法/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/B - 高精度减法/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/B - 高精度减法/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/B - 高精度减法/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/B - 高精度减法/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/C - 高精度乘法/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/C - 高精度乘法/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/C - 高精度乘法/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/C - 高精度乘法/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/C - 高精度乘法/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/D - Modular multiplication of polynomials/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/D - Modular multiplication of polynomials/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/D - Modular multiplication of polynomials/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/E - Octal Fractions/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/E - Octal Fractions/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/E - Octal Fractions/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/F - Exponentiation/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/F - Exponentiation/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/F - Exponentiation/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/G - 数字三角形/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/G - 数字三角形/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/G - 数字三角形/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/I - 01 背包/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/I - 01 背包/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/I - 01 背包/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/J - 采药/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/J - 采药/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/J - 采药/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/K - Gardener and the Capybaras(HARD)/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/K - Gardener and the Capybaras(HARD)/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/K - Gardener and the Capybaras(HARD)/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/生成test.in标程.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 4/生成test.out标程.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/A - Team Queue/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/A - Team Queue/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/A - Team Queue/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/A - Team Queue/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/A - Team Queue/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/B - 约瑟夫问题/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/B - 约瑟夫问题/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/B - 约瑟夫问题/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/B - 约瑟夫问题/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/B - 约瑟夫问题/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/C - 海港/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/C - 海港/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/C - 海港/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/C - 海港/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/C - 海港/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/D - 栈/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/D - 栈/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/D - 栈/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/D - 栈/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/D - 栈/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/E - 表达式括号匹配/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/E - 表达式括号匹配/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/E - 表达式括号匹配/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/E - 表达式括号匹配/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/E - 表达式括号匹配/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/F - Rails/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/F - Rails/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/F - Rails/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/F - Rails/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/F - Rails/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/I - Surprising Strings/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/I - Surprising Strings/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/I - Surprising Strings/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/I - Surprising Strings/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/I - Surprising Strings/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/J - {A} + {B}/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/J - {A} + {B}/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/J - {A} + {B}/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/J - {A} + {B}/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 5/J - {A} + {B}/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/A - Oil Deposits/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/A - Oil Deposits/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/A - Oil Deposits/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/A - Oil Deposits/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/A - Oil Deposits/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/B - 仙岛求药/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/B - 仙岛求药/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/B - 仙岛求药/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/B - 仙岛求药/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/B - 仙岛求药/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/C - Catch That Cow/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/C - Catch That Cow/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/C - Catch That Cow/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/C - Catch That Cow/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/C - Catch That Cow/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/D - 马走日/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/D - 马走日/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/D - 马走日/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/D - 马走日/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/D - 马走日/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/E - 棋盘问题/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/E - 棋盘问题/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/E - 棋盘问题/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/E - 棋盘问题/解题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/E - 棋盘问题/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/F - Avoid The Lakes/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/F - Avoid The Lakes/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/F - Avoid The Lakes/结题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/F - Avoid The Lakes/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/F - Avoid The Lakes/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/G - 奇怪的电梯/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/G - 奇怪的电梯/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/G - 奇怪的电梯/结题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/G - 奇怪的电梯/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/G - 奇怪的电梯/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/H - 数独/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/H - 数独/结题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/H - 数独/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/H - 数独/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/I - 迷宫问题/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/I - 迷宫问题/test.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/I - 迷宫问题/结题报告.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/I - 迷宫问题/解题代码.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vJudge/2023 Winter Training/Week 6/I - 迷宫问题/题目.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/3.23.2/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/3.23.2/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/3.23.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/3.23.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/3.23.2/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/3.23.2/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/3.23.2/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P1816.dir/Algorithms/Luogu/能力全面提升综合题单/Part7_数据结构/Part_7.6_ST表/P1816.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P1816.dir/Algorithms/Luogu/能力全面提升综合题单/Part7_数据结构/Part_7.6_ST表/P1816.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P1816.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P1816.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P1816.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P1816.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P1816.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P1816.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P1816.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P1816.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P1816.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P1816.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P2880_BalancedLineupG.dir/Algorithms/Luogu/能力全面提升综合题单/Part7_数据结构/Part_7.6_ST表/P2880_BalancedLineupG.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P2880_BalancedLineupG.dir/Algorithms/Luogu/能力全面提升综合题单/Part7_数据结构/Part_7.6_ST表/P2880_BalancedLineupG.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P2880_BalancedLineupG.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P2880_BalancedLineupG.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P2880_BalancedLineupG.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P2880_BalancedLineupG.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P2880_BalancedLineupG.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P2880_BalancedLineupG.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P2880_BalancedLineupG.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P2880_BalancedLineupG.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P2880_BalancedLineupG.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/P2880_BalancedLineupG.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/C++/sort/bubbleSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/C++/sort/insertionSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/C++/sort/mergeSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/C++/sort/qSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/C++/sort/selectionSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/C++/sort/shellSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/C++/tree/binaryTree.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/Java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/Java/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/Java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/Java/.vscode/settings-514PC30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/Java/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/Java/Data structures.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/Java/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/Java/out/production/Data structures/ListExercises.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/Java/src/LinkList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Data structures/Java/src/ListExercises.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../P2880_BalancedLineupG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../test.in" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.4" />
+  </component>
+  <component name="ProjectId" id="2SXqXO14VrtrcwUDICjr4LWeQA1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.advertisement.text.has.clang-format&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41d3dcc0-2b8c-4ce3-bd4e-14ce1dcba1ba" name="Changes" comment="" />
+      <created>1689303311185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689303311185</updated>
+      <workItem from="1689303312413" duration="4000" />
+      <workItem from="1689333112183" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -270,5 +270,6 @@
   "search.useIgnoreFiles": true,
   "C_Cpp.clang_format_fallbackStyle": "google",
   "editor.fontSize": 14,
-  "editor.cursorStyle": "line"
+  "editor.cursorStyle": "line",
+  "autoDarkMode.lightTheme": "Xcode14-Default-Light"
 }

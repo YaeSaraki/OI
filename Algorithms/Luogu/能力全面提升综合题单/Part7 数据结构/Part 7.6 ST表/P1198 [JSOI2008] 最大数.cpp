@@ -1,6 +1,6 @@
 /**
- * \link:
- * \category:
+ * \link: https://www.luogu.com.cn/problem/P1198
+ * \category: SparseTable
  *
  * \date:
  * \author: YaeSaraki

@@ -1,27 +1,17 @@
 #include <iostream>
+#include <algorithm>
 using namespace std;
 
-void hanoi(int n, char A, char B, char C)
-{
-    if (n == 1)
-    {
-        cout << A << "->" << C << endl;
-        return;//递归终止
-    }
-    hanoi(n - 1, A, C, B);//将n-1个盘子从A移到B
-    cout << A << "->" << C << endl;
-    hanoi(n - 1, B, A, C);//将n-1个盘子从B移到C
-    return;
+int main() {
+  int x; cin >> x;
+  /** return the first 1 of the (bit)x */
+  int the_first_one_of_the_bit_x = __builtin_ffs(x);
+  cout << the_first_one_of_the_bit_x << '\n';
+  int n = 5;
+  int a[10] = {1, 2, 3 , 4 , 5 ,6 ,7, 8, 9};
+  for (int i = 0; i < n; ++i) {
+    cout << i + 1 << " \n"[i == n - 1];
+  }
 
-}
-
-int main()
-{
-    char A = 'A', B = 'B', C = 'C';
-    int n;
-    cout << "请输入圆盘数量：";
-    cin >> n;
-    hanoi(n, A, B, C);
-    system("pause");
-    return 0;
+  return 0;
 }

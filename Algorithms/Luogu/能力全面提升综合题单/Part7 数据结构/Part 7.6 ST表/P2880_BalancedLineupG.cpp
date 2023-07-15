@@ -54,17 +54,11 @@ inline void solve() {
 bool rt = false;
 
 signed main() {
-  ios::sync_with_stdio(false);
-  cin.tie(nullptr);
-  cout.tie(nullptr);
+  ios::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);
 #ifndef ONLINE_JUDGE
   freopen("test.in", "r", stdin);
 #endif
-  if (rt) {
-    int T;
-    cin >> T;
-    while (T--) solve();
-  }
+  if (rt) { int T; cin >> T; while (T--) solve(); }
   else solve();
   return (0 ^ 0);
 }
