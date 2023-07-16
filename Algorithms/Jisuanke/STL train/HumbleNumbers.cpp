@@ -17,6 +17,7 @@
 using namespace std;
 using ll = long long;
 
+/** 动态规划. */
 inline void solve() {
   int k, n; cin >> k >> n;
   vector<int> factors(k);

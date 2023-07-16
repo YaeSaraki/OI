@@ -10,16 +10,13 @@
 #include <queue>
 using namespace std;
 
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+struct ListNode {
+  int val;
+  ListNode *next;
+  ListNode() : val(0), next(nullptr) {}
+  ListNode(int x) : val(x), next(nullptr) {}
+  ListNode(int x, ListNode *next) : val(x), next(next) {}
+};
 
 /** 分治 */
 class Solution {
@@ -47,6 +44,7 @@ class Solution {
     int mid = (l + r) >> 1;
     return mergeTwoLists(merge(lists, l, mid), merge(lists, mid + 1, r));
   }
+
   ListNode* mergeKLists(vector<ListNode*>& lists) {
     return merge(lists, 0, lists.size() - 1);
   }
@@ -72,7 +70,7 @@ class Solution {
       auto it = que.top(); que.pop();
       tail->next = it.ptr;
       tail = tail->next;
-      if (it.ptr->next) que.push({it.ptr->next->value, it.ptr->next});
+      if (it.ptr->next) que.push({it.ptr->next->val, it.ptr->next});
     }
     return head.next;
   }
