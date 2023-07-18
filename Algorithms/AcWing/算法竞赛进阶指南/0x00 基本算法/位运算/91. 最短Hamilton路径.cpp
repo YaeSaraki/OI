@@ -15,6 +15,8 @@ using ull = unsigned long long;
 const int kN = 20, kM = 1 << 20;
 int f[kM][kN], weight[kN][kN]; 
 
+
+/** using 状态压缩 */
 inline void solve() {
   int n; cin >> n;
   for (int i = 0; i < n; ++i) for (int j = 0; j < n; ++j) cin >> weight[i][j];

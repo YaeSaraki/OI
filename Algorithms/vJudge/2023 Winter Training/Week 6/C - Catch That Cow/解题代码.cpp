@@ -39,6 +39,7 @@ int BreadthFirstSearch() {
     queue.pop();
     int next_position; // <- 1 2 3 
     if (now.position == cow_position) return now.step;
+    
     next_position = now.position + 1;  // 1
     if (!haspassed[next_position] && next_position <= cow_position &&
         (0 <= next_position && next_position <= FARLANDS)) {

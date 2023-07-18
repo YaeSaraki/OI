@@ -13,6 +13,10 @@
 
 using namespace std;
 
+/** using binaryheap*/
+
+
+/** using priority queue. */
 const bool kMergeTheFruit = true;
 inline void solve() {
   int n; cin >> n;

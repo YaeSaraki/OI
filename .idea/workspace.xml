@@ -19,20 +19,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e3aec4d-5f4f-4ac7-b0be-a35b496724e3" name="Changes" comment="CMake-Clion">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/.cmake/api/v1/query/client-vscode/query.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/.cmake/api/v1/reply/cache-v2-4d52c1b27c6d7ced6885.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/.cmake/api/v1/reply/cmakeFiles-v1-37aee480372ce1b2e223.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/.cmake/api/v1/reply/codemodel-v2-003528c9aad94841192d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/.cmake/api/v1/reply/index-2023-07-15T14-41-25-0669.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/.cmake/api/v1/reply/toolchains-v1-b2d79382b5c6d24fb21d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/result/HumbleNumbers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/result/HumbleNumbers.dSYM/Contents/Info.plist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/result/HumbleNumbers.dSYM/Contents/Resources/DWARF/HumbleNumbers" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/result/HumbleNumbers.dSYM/Contents/Resources/Relocations/x86_64/HumbleNumbers.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 885 (Div.2)/9c3cfc79d8707073e04df3ff9f0dbde9be056c85.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 885 (Div.2)/A. Vika and Her Friends.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/CheckerChallenge.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/ScalesS.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/Wonder.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/WordLadder.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part7 数据结构/Part 7.5 二叉堆/P1168Median.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part7 数据结构/Part 7.5 二叉堆/RunningMedianAgain.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Wonder" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/AcWing/算法竞赛进阶指南/0x00 基本算法/位运算/91. 最短Hamilton路径.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/AcWing/算法竞赛进阶指南/0x00 基本算法/位运算/91. 最短Hamilton路径.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/AcWing/算法竞赛进阶指南/0x00 基本算法/递推与递归/96. 奇怪的汉诺塔.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/AcWing/算法竞赛进阶指南/0x00 基本算法/递推与递归/96. 奇怪的汉诺塔.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/P1019 NOIP2000 提高组 单词接龙 .cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/P1219 USACO1.5 八皇后 Checker Challenge.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part7 数据结构/Part 7.5 二叉堆/NOIP2004 提高组 合并果子 USACO06NOV Fence Repair G.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part7 数据结构/Part 7.5 二叉堆/NOIP2004 提高组 合并果子 USACO06NOV Fence Repair G.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.in" beforeDir="false" afterPath="$PROJECT_DIR$/test.in" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +65,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -142,6 +151,10 @@
       <workItem from="1689419915887" duration="1967000" />
       <workItem from="1689421892672" duration="4548000" />
       <workItem from="1689431554213" duration="634000" />
+      <workItem from="1689471282855" duration="93000" />
+      <workItem from="1689589132227" duration="33000" />
+      <workItem from="1689589169982" duration="639000" />
+      <workItem from="1689589814876" duration="747000" />
     </task>
     <task id="LOCAL-00001" summary="P2880 [USACO07JAN] Balanced Lineup G">
       <option name="closed" value="true" />
