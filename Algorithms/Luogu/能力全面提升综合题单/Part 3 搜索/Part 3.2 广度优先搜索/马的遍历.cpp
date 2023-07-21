@@ -12,14 +12,11 @@
 #include <vector>
 #include <queue>
 
-
 #define DBG(x) cout << #x << " = " << (x) << '\n'
 
 using namespace std;
 using PI = pair<int, int>;
 
-
-const int kN = 410;
 int n, m;
 
 vector<vector<int>> ans;

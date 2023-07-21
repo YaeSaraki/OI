@@ -1,7 +1,7 @@
 /**
  * @problem: P5194 [USACO05DEC] Scales S
  * @link: https://www.luogu.com.cn/problem/P5194
- * @category: DFS
+ * @category: DFS 减枝
  * @date: Mon Jul 17 10:57:54 CST 2023
  * @author: YaeSaraki
  **/
