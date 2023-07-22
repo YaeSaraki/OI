@@ -18,28 +18,26 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e3aec4d-5f4f-4ac7-b0be-a35b496724e3" name="Changes" comment="CMake-Clion">
-      <change afterPath="$PROJECT_DIR$/.test.in.swp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Problem/Spreadsheets.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Problem/TheModcrab.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Problem/TheatreSquare.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Problem/Watermelon.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/DivideNumber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.2 广度优先搜索/GenerateNumber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.2 广度优先搜索/棋盘.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.4 搜索的剪枝/LittleStick.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Contest/2023河南萌新联赛第（二）场：河南工业大学/奶牛的寿命.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Contest/2023河南萌新联赛第（二）场：河南工业大学/爬山.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Contest/2023河南萌新联赛第（二）场：河南工业大学/自动收小麦机.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Contest/2023河南萌新联赛第（二）场：河南工业大学/释怀的RT.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/OJ/ShengdaOJ/BinaryNumber.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryNumber" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GenerateNumber" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+    <list default="true" id="1e3aec4d-5f4f-4ac7-b0be-a35b496724e3" name="Changes" comment="BFS + DFS train">
+      <change afterPath="$PROJECT_DIR$/.test.in.swn" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.test.in.swo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A.ToMyCritics" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 886 (Div. 4)/A.ToMyCritics.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 886 (Div. 4)/B.TenWordsOfWisdom.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 886 (Div. 4)/C.WordOnthePaper.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 886 (Div. 4)/D.BalancedRound.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 886 (Div. 4)/E.CardboardFCorPictures.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 886 (Div. 4)/F.WeWereBothChildren.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.TenWordsOfWisdom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C.WordOnthePaper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D.BalancedRound" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E.CardboardFCorPictures" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/F.WeWereBothChildren" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/ScalesS.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/ScalesS.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.2 广度优先搜索/马的遍历.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.2 广度优先搜索/马的遍历.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/CheckerChallenge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/CheckerChallenge.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/OJ/ShengdaOJ/BinaryNumber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/OJ/ShengdaOJ/BinaryNumber.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryNumber" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryNumber" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenerateNumber" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test.in" beforeDir="false" afterPath="$PROJECT_DIR$/test.in" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,35 +82,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.advertisement.text.has.clang-format&quot;: &quot;true&quot;,
-    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zhaohe/Library/CloudStorage/OneDrive-Personal/Code&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.advertisement.text.has.clang-format": "true",
+    "cf.advertisement.text.overridden": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/zhaohe/Library/CloudStorage/OneDrive-Personal/Code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editing.templates",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration name="Test" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="DivertingWaterIntoTheCity.cpp" CONFIG_NAME="Test">
@@ -175,7 +173,10 @@
       <workItem from="1689834732410" duration="22120000" />
       <workItem from="1689863062623" duration="1043000" />
       <workItem from="1689864123957" duration="35000" />
-      <workItem from="1689905782292" duration="5000" />
+      <workItem from="1689905782292" duration="4347000" />
+      <workItem from="1689916687230" duration="8783000" />
+      <workItem from="1689934156917" duration="59000" />
+      <workItem from="1689949167734" duration="12843000" />
     </task>
     <task id="LOCAL-00001" summary="P2880 [USACO07JAN] Balanced Lineup G">
       <option name="closed" value="true" />
@@ -201,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689301918339</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="BFS + DFS train">
+      <option name="closed" value="true" />
+      <created>1689905865569</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689905865569</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +238,8 @@
     <MESSAGE value="P2880 [USACO07JAN] Balanced Lineup G" />
     <MESSAGE value="Cmake-Clion" />
     <MESSAGE value="CMake-Clion" />
-    <option name="LAST_COMMIT_MESSAGE" value="CMake-Clion" />
+    <MESSAGE value="BFS + DFS train" />
+    <option name="LAST_COMMIT_MESSAGE" value="BFS + DFS train" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
