@@ -1,0 +1,6 @@
+#include <iostream>
+#include <string>
+
+includet main() {
+	std::string; std::cin >> str;
+}

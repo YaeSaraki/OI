@@ -29,7 +29,8 @@
             "cppStandard": "${default}",
             "compilerArgs": [
                 ""
-            ]
+            ],
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json"
         }
     ],
     "version": 4

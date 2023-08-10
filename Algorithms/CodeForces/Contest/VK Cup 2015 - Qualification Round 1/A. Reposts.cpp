@@ -1,75 +1,65 @@
 /**
- * \link: https://codeforces.com/contest/522/problem/A
- * \category: floyd  *special problem dfs and similar dp graphs trees *1200
- * 
- * 
- * 
-*/
-
+ * @problem:
+ * @link: https://codeforces.com/contest/522/problem/A
+ * @category: floyd *special problem dfs and similar dp graphs trees *1200
+ * @date:
+ * @Author: YaeSaraki
+ **/
 #include <algorithm>
 #include <iostream>
-#include <map>
+#include <vector>
 #include <string>
+#include <ranges>
+#include <map>
 
-using namespace std;
+#define ALL(v) v.begin(), v.end()
+#define DBG(x) std::cout << #x << " = " << (x) << '\n'
+//#define int long long
+
 using ll = long long;
-using ull = unsigned long long;
+using PI = std::pair<int, int>;
 
 const int kN = 233;
-int n;
-int num = 0;
-int dp[kN][kN];
 
-void Init() {
-  for (int i = 0; i < kN; ++i) for (int j = 0; j < kN; ++j) {
-    dp[i][j] = 0x3F3F3F3F;
+inline void solve() {
+  int n; std::cin >> n;
+  int cnt = 0;
+  std::map<std::string, int> m;
+  std::vector<std::vector<int> > dp(kN, std::vector<int> (kN, 0x3F3F3F3F));
+  for (int i = 0; i < n; ++i ) {
+    std::string name1, drop, name2; std::cin >> name1 >> drop >> name2;
+    std::transform(ALL(name1), name1.begin(), ::tolower);
+    std::transform(ALL(name2), name2.begin(), ::tolower);
+    if (!m.count(name1)) m.emplace(name1, cnt++);
+    if (!m.count(name2)) m.emplace(name2, cnt++);
+    dp[m[name1]][m[name2]] = 1;
   }
-  return;
-}
-/** floyd */
-void Floyd() {
-  for (int k = 1; k <= num; ++k) {
-    for (int i = 1; i <= num; ++i) {
-      for (int j = 1; j <= num; ++j) {
-        dp[i][j] = min(dp[i][j], dp[i][k] + dp[k][j]);
+  /* floyd */
+  for(int k = 0; k < cnt; ++k) {
+    for (int i = 0; i < cnt; ++i) {
+      for (int j = 0; j < cnt; ++j) {
+          dp[i][j] = std::min(dp[i][j], dp[i][k] + dp[k][j]);
       }
     }
   }
-  return ;
-}
 
-inline void solve() {
-  Init();
-  cin >> n;
-  map<string, int> M;
-  for (int i = 0; i < n; ++i) {
-    string str1, drop, str2; cin >> str1 >> drop >> str2;
-    /** transform the string to the same format. */
-    transform(str1.begin(), str1.end(), str1.begin(), ::toupper);
-    transform(str2.begin(), str2.end(), str2.begin(), ::toupper);
-    /** using map to store data. */
-    if (!M.count(str1)) M.insert({str1, ++num});
-    if (!M.count(str2)) M.insert({str2, ++num});
-    dp[M[str1]][M[str2]] = 1;
-  }
-  /** traverse floyd array to get max, which is answer. */
-  Floyd();
   int ans = 0;
-  for (int i = 1; i <= num; ++i) {
-    for (int j = 1; j <= num; ++j) {
-      if (dp[i][j] < 0x3F3F3F3F) ans = max(ans, dp[i][j]);
+  for (int i = 0; i < cnt; ++i) {
+    for (int j = 0; j < cnt; ++j) {
+      if (dp[i][j] < 0x3F3F3F3F) ans = std::max(ans, dp[i][j]);
     }
   }
-  return cout << ans + 1 << '\n', void();
+
+  std::cout << ans + 1 << '\n';
 }
 
 bool rt = false;
 signed main() {
-  ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-  #ifndef ONLINE_JUDGE
+  std::ios::sync_with_stdio(false); std::cin.tie(nullptr); std::cout.tie(nullptr);
+#ifndef ONLINE_JUDGE
   freopen("test.in", "r", stdin);
-  #endif
-  if (rt) { int T; cin >> T; while (T--) solve(); }
+#endif
+  if (rt) { int T; std::cin >> T; while (T--) solve(); }
   else solve();
   return (0 ^ 0);
 }

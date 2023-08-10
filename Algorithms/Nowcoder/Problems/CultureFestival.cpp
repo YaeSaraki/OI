@@ -12,6 +12,7 @@
 #include <stack>
 #include <vector>
 
+
 #define DBG(x) cout << #x << " = " << (x) << '\n'
 
 using namespace std;
@@ -44,19 +45,19 @@ inline void solve() {
   for (int i = max_length_index + 1; ; ++i) {
     if (i > n) i -= n;
     if (i == max_length_index) break;
-    while (stk.size() && poems.at(stk.top()) <= poems.at(i)) stk.pop();
+    while (!stk.empty() && poems.at(stk.top()) <= poems.at(i)) stk.pop();
     if (poems.at(i) != poems.at(max_length_index)) r.at(i) = stk.top();
     stk.push(i); 
   }
 
-  while (stk.size()) stk.pop();
+  while (!stk.empty()) stk.pop();
   /** anticlockwise traversal. */
   stk.push(max_length_index);
   vector<int> l(n + 1);
   for (int i = max_length_index - 1; ; --i) {
     if (i < 1) i += n;
     if (i == max_length_index) break;
-    while (stk.size() && poems.at(stk.top()) <= poems.at(i)) stk.pop();
+    while (!stk.empty() && poems.at(stk.top()) <= poems.at(i)) stk.pop();
     if (poems.at(i) != poems.at(max_length_index)) l.at(i) = stk.top();
     stk.push(i);
   }
@@ -82,7 +83,7 @@ inline void solve() {
 
 bool rt = false;
 signed main() {
-  ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
+  ios::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);
 #ifndef ONLINE_JUDGE
   freopen("test.in", "r", stdin);
 #endif

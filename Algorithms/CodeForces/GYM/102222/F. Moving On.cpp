@@ -1,66 +1,69 @@
 /**
- * \link: https://codeforces.com/gym/102222/problem/F
- * \category: floyd  动态规划
- * 
- * 
- * 
-*/
-#include <iostream>
+ * @problem: F. Moving On
+ * @link: https://codeforces.com/gym/102222/problem/F
+ * @category: floyd 动态规划
+ * @date:
+ * @Author: YaeSaraki
+ **/
 #include <algorithm>
-#include <string>
-#include <cmath>
-#include <climits>
-#include <cstring>
-#include <set>
-//#define ONLINE_JUDGE
+#include <iostream>
+#include <vector>
+#include <array>
 
-using namespace std;
+#define ALL(v) v.begin(), v.end()
+#define DBG(x) std::cout << #x << " = " << (x) << '\n'
+//#define int long long
+
 using ll = long long;
+using PI = std::pair<int, int>;
+
+int n;
+int rod;
 const int kN = 233;
+std::array<int, kN> risk, idx;
+std::array<std::array<std::array<int, kN>, kN>, kN> dp;
 
-int rod = 1;
-int n, q, s, e, w;
-int r[kN], id[kN];
-int dp[kN][kN][kN];
-
-bool cmp(int a, int b) { return r[a] < r[b]; }
-
-void Floyd() {
+inline void Floyd() {
   for (int k = 1; k <= n; ++k) {
     for (int i = 1; i <= n; ++i) {
       for (int j = 1; j <= n; ++j) {
-        dp[i][j][k] = min(dp[i][j][k - 1], dp[i][id[k]][k - 1] + dp[id[k]][j][k - 1]);
+        dp[i][j][k] = std::min(dp[i][j][k - 1], dp[i][idx[k]][k  - 1] + dp[idx[k]][j][k - 1]);
       }
     }
   }
 }
 
-void inline solve() {
-  cin >> n >> q;
-  for (int i = 1; i <= n; ++i) cin >> r[i], id[i] = i;
-  sort(id + 1, id + n + 1, cmp);
-  for (int i = 1; i <= n; ++i)
-    for (int j = 1; j <= n; ++j) cin >> dp[i][j][0];
-	Floyd();
-  cout << "Case #" << rod++ << ":\n";
-  while (q--) {
-    cin >> s >> e >> w;
-    int ans = 0;
-    for (int i = 1; i <= n; ++i) {
-      if (r[id[i]] <= w) ans = i;
+inline void solve() {
+  std::cout << "Case #" << ++rod << ":\n";
+  int q; std::cin >> n >> q;
+  for (int i = 1; i <= n; ++i) { std::cin >> risk[i]; idx[i] = i; }
+  auto cmp = [](const int a, const int b) { return risk[a] < risk[b]; };
+  /* <!> 比较函数开始和结束位置一定要注意 */
+  std::sort(idx.begin() + 1, idx.begin() + 1 + n, cmp);
+  for (int i = 1; i <= n; ++i) {
+    for (int j = 1; j <= n; ++j) {
+      std::cin >> dp[i][j][0];
     }
-    cout << dp[s][e][ans] << '\n';
   }
-  return ;
+  Floyd();
+
+  while (q--) {
+    int begin, end, threshold; std::cin >> begin >> end >> threshold;
+    int thre = 0;
+    for (int i = 1; i <= n; ++i) {
+      if (threshold >= risk[idx[i]]) thre = i;
+    }
+    std::cout << dp[begin][end][thre] << "\n";
+  }
 }
 
 bool rt = true;
 signed main() {
-	cin.tie(0); cout.tie(0);
-	#ifndef ONLINE_JUDGE
-	freopen("test.in", "r", stdin);
-	#endif
-	if (rt) { int T; cin >> T; while (T--) solve() ;}
-	else solve();
-	return 0;
+  std::ios::sync_with_stdio(false); std::cin.tie(nullptr); std::cout.tie(nullptr);
+#ifndef ONLINE_JUDGE
+  freopen("test.in", "r", stdin);
+#endif
+  if (rt) { int T; std::cin >> T; while (T--) solve(); }
+  else solve();
+  return (0 ^ 0);
 }

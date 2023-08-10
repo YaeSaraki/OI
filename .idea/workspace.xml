@@ -18,26 +18,77 @@
     <configurations />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e3aec4d-5f4f-4ac7-b0be-a35b496724e3" name="Changes" comment="BFS + DFS train">
-      <change afterPath="$PROJECT_DIR$/.test.in.swn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.test.in.swo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A.ToMyCritics" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 886 (Div. 4)/A.ToMyCritics.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 886 (Div. 4)/B.TenWordsOfWisdom.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 886 (Div. 4)/C.WordOnthePaper.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 886 (Div. 4)/D.BalancedRound.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 886 (Div. 4)/E.CardboardFCorPictures.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/Codeforces Round 886 (Div. 4)/F.WeWereBothChildren.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.TenWordsOfWisdom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.WordOnthePaper" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D.BalancedRound" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/E.CardboardFCorPictures" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/F.WeWereBothChildren" afterDir="false" />
+    <list default="true" id="1e3aec4d-5f4f-4ac7-b0be-a35b496724e3" name="Changes" comment="Codeforces Round 886 (Div. 4)">
+      <change afterPath="$PROJECT_DIR$/Algorithms/AcWing/Problem/BinaryTreeTraversal.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/AcWing/算法竞赛进阶指南/0x00 基本算法/二分/102. 最佳牛围栏.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/AcWing/算法竞赛进阶指南/0x00 基本算法/前缀和与差分/99. 激光炸弹.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/AcWing/算法竞赛进阶指南/0x40 数据结构进阶/食物链.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Category/Sort/mErGeSoRt.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Category/test/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Problem/AncientBerlandCircus.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Problem/ChatServersOutgoingTraffic.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Problem/DieRoll.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Problem/PowerConsumptionCalculation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Problem/Triangle.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/BinarySearchExercise/eko.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/PERKET.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/PromWithoutBoss.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/YoumuSplicingSticks.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/kkksc03考前临时抱佛脚.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/乘法逆元.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/于是他错误的点名开始了.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/删数问题.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/南蛮图腾.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/排队接水.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/最长上升子序列.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/石子合并low.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/蜜蜂路线.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/Problems/过河卒.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/东方Project/easy1/BeautifulArray.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/东方Project/easy1/SplitIt.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/东方Project/easy1/东风谷早苗.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/东方Project/easy1/小小的埴轮兵团.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/东方Project/easy1/森罗结界.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/东方Project/easy1/比赤色更红的梦.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/东方Project/easy1/永夜的报应.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/入门5字符串/AutoFix.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/入门5字符串/eko.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/入门5字符串/kaisaPassword.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 2 基础算法/Part 2.7 高精度/AplusBproblem.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/SelectNumber.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 4 动态规划/Part 4.1 线性动态规划/MissileInterception.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 4 动态规划/Part 4.1 线性动态规划/NumberTriangles.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part7 数据结构/Part 7.4 并查集/关押罪犯.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Contest/2023河南萌新联赛第（三）场：郑州大学/B.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Contest/2023河南萌新联赛第（三）场：郑州大学/入门rex.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Contest/2023河南萌新联赛第（三）场：郑州大学/完全平方数.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Contest/2023河南萌新联赛第（三）场：郑州大学/找最大值.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Contest/2023河南萌新联赛第（三）场：郑州大学/替换大师.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Contest/2023河南萌新联赛第（三）场：郑州大学/泰拉瑞亚.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Contest/2023河南萌新联赛第（三）场：郑州大学/计数问题.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Problems/xinjun与阴阳师.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/OJ/ShengdaOJ/ACM/1087获取出生日期.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/OJ/ShengdaOJ/ACM/1488倒着背.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/vJudge/Little test/3wayRadixQuicksort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/vJudge/Little test/BiNaRySeArCh.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/vJudge/Little test/MeRgEsOrT.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms/vJudge/Problem/BraveGame.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BiNaRySeArCh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Luogu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nikoniko" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/saraki" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wuwuwu" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/CheckerChallenge.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 3 搜索/Part 3.1 深度优先搜索/CheckerChallenge.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithms/OJ/ShengdaOJ/BinaryNumber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/OJ/ShengdaOJ/BinaryNumber.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinaryNumber" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryNumber" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GenerateNumber" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.test.in.swo" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Luogu/东方Project/easy1/.小小的埴轮兵团.cpp.swp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.test.in.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/AcWing/算法竞赛进阶指南/0x10 基本数据结构/Hash/137. 雪花雪花雪花.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/AcWing/算法竞赛进阶指南/0x10 基本数据结构/Hash/137. 雪花雪花雪花.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/AcWing/算法竞赛进阶指南/0x10 基本数据结构/Hash/138. 兔子与兔子.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/AcWing/算法竞赛进阶指南/0x10 基本数据结构/Hash/138. 兔子与兔子.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Category/test/1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/VK Cup 2015 - Qualification Round 1/A. Reposts.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/CodeForces/Contest/VK Cup 2015 - Qualification Round 1/A. Reposts.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/CodeForces/GYM/102222/F. Moving On.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/CodeForces/GYM/102222/F. Moving On.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 2 基础算法/Part 2.4 分治/P1010 NOIP1998 普及组 幂次方.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Luogu/能力全面提升综合题单/Part 2 基础算法/Part 2.4 分治/幂次方.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/Nowcoder/Problems/CultureFestival.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/Nowcoder/Problems/CultureFestival.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithms/vJudge/2022 - 2023/Week 4/跳跳.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithms/vJudge/2022 - 2023/Week 4/跳跳.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.in" beforeDir="false" afterPath="$PROJECT_DIR$/test.in" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,37 +131,44 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.advertisement.text.has.clang-format": "true",
-    "cf.advertisement.text.overridden": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/zhaohe/Library/CloudStorage/OneDrive-Personal/Code",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
-    "structure.view.defaults.are.configured": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.advertisement.text.has.clang-format&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zhaohe/Library/CloudStorage/OneDrive-Personal/Code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Console Font&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithms/AcWing/算法竞赛进阶指南/0x00 基本算法" />
+      <recent name="$PROJECT_DIR$/Algorithms/vJudge/Little test" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="Test" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="DivertingWaterIntoTheCity.cpp" CONFIG_NAME="Test">
@@ -176,7 +234,42 @@
       <workItem from="1689905782292" duration="4347000" />
       <workItem from="1689916687230" duration="8783000" />
       <workItem from="1689934156917" duration="59000" />
-      <workItem from="1689949167734" duration="12843000" />
+      <workItem from="1689949167734" duration="13495000" />
+      <workItem from="1690007450516" duration="11798000" />
+      <workItem from="1690071770132" duration="2865000" />
+      <workItem from="1690074700177" duration="1721000" />
+      <workItem from="1690079388593" duration="263000" />
+      <workItem from="1690079657580" duration="2405000" />
+      <workItem from="1690082069504" duration="20380000" />
+      <workItem from="1690110540493" duration="2039000" />
+      <workItem from="1690156358626" duration="8376000" />
+      <workItem from="1690168022125" duration="16176000" />
+      <workItem from="1690192577977" duration="7906000" />
+      <workItem from="1690251868554" duration="20989000" />
+      <workItem from="1690293759446" duration="30772000" />
+      <workItem from="1690370048152" duration="7300000" />
+      <workItem from="1690417309228" duration="16932000" />
+      <workItem from="1690445235761" duration="12294000" />
+      <workItem from="1690502566215" duration="7088000" />
+      <workItem from="1690513897920" duration="5065000" />
+      <workItem from="1690522038364" duration="8663000" />
+      <workItem from="1690532114161" duration="10833000" />
+      <workItem from="1690548182434" duration="1000" />
+      <workItem from="1690548252226" duration="17000" />
+      <workItem from="1690548623008" duration="6575000" />
+      <workItem from="1690589021355" duration="10989000" />
+      <workItem from="1690614139723" duration="26000" />
+      <workItem from="1690617248758" duration="37000" />
+      <workItem from="1690716860002" duration="397000" />
+      <workItem from="1690778518774" duration="45000" />
+      <workItem from="1690964022422" duration="1062000" />
+      <workItem from="1691027801720" duration="1978000" />
+      <workItem from="1691291376351" duration="134000" />
+      <workItem from="1691330639253" duration="110000" />
+      <workItem from="1691333475714" duration="142000" />
+      <workItem from="1691369258790" duration="6062000" />
+      <workItem from="1691483956120" duration="15000" />
+      <workItem from="1691590421454" duration="157000" />
     </task>
     <task id="LOCAL-00001" summary="P2880 [USACO07JAN] Balanced Lineup G">
       <option name="closed" value="true" />
@@ -210,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689905865569</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Codeforces Round 886 (Div. 4)">
+      <option name="closed" value="true" />
+      <created>1689992692314</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689992692314</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +340,8 @@
     <MESSAGE value="Cmake-Clion" />
     <MESSAGE value="CMake-Clion" />
     <MESSAGE value="BFS + DFS train" />
-    <option name="LAST_COMMIT_MESSAGE" value="BFS + DFS train" />
+    <MESSAGE value="Codeforces Round 886 (Div. 4)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeforces Round 886 (Div. 4)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
