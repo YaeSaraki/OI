@@ -142,5 +142,17 @@
     "**/tmp/**": true,
     "**/bower_components/**": true,
     "**/dist/**": true
-}
+},
+"editor.fontFamily": "'Hack Nerd Font'",
+/// clangd
+"clangd.checkUpdates": true,
+"clangd.arguments": [
+   "--query-driver=/usr/bin/clang++",  /// clang 路径，使用命令 which clang++ 获取的的路径
+   "--clang-tidy",                  /// clang-tidy功能
+   "--clang-tidy-checks=performance-*,bugprone-*",
+   "--all-scopes-completion",       /// 全局补全（会自动补充头文件）
+   "--completion-style=detailed",   /// 更详细的补全内容
+   "--header-insertion=iwyu",       /// 补充头文件的形式
+   "--pch-storage=disk"            /// pch优化的位置
+]
 }

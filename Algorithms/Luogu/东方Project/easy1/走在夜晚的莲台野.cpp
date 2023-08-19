@@ -1,6 +1,6 @@
 /**
- * @problem:
- * @link:
+ * @problem: P8344 「Wdoi-6」走在夜晚的莲台野
+ * @link: https://www.luogu.com.cn/problem/P8344
  * @category:
  * @date:
  * @Author: YaeSaraki
@@ -8,9 +8,6 @@
 #include <algorithm>
 #include <iostream>
 #include <vector>
-#include <climits>
-#include <cmath>
-#include <numeric>
 
 #define ALL(v) v.begin(), v.end()
 #define DBG(x) std::cout << #x << " = " << (x) << '\n'
@@ -20,14 +17,19 @@ using i64 = int64_t;
 using PI = std::pair<int, int>;
 
 inline void solve() {
-  int maxx = 0, n = 1e9;
-  for (int i = 0; i < n; ++i) {
-    maxx = std::max(i, maxx);
+  i64 x, y, z; std::cin >> x >> y >> z;
+
+  bool isOK = true;
+  while (isOK) {
+    if (x > z) { isOK = false; break; }
+    if ((z - 1 + z - x) * x / 2 + z - x < y)  { isOK = false; break; }
+    break;
   }
-  std::cout << maxx;
+
+  std::cout << (isOK ? "Renko\n" : "Merry\n");
 }
 
-bool rt = false;
+bool rt = true;
 signed main() {
   std::ios::sync_with_stdio(false); std::cin.tie(nullptr); std::cout.tie(nullptr);
 #ifndef ONLINE_JUDGE
@@ -37,3 +39,7 @@ signed main() {
   else solve();
   return (0 ^ 0);
 }
+
+
+
+

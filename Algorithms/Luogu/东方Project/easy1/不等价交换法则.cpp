@@ -1,6 +1,6 @@
 /**
- * @problem:
- * @link:
+ * @problem: P8444 不等价交换法则
+ * @link: https://www.luogu.com.cn/problem/P8444
  * @category:
  * @date:
  * @Author: YaeSaraki
@@ -9,8 +9,6 @@
 #include <iostream>
 #include <vector>
 #include <climits>
-#include <cmath>
-#include <numeric>
 
 #define ALL(v) v.begin(), v.end()
 #define DBG(x) std::cout << #x << " = " << (x) << '\n'
@@ -20,11 +18,22 @@ using i64 = int64_t;
 using PI = std::pair<int, int>;
 
 inline void solve() {
-  int maxx = 0, n = 1e9;
-  for (int i = 0; i < n; ++i) {
-    maxx = std::max(i, maxx);
+  int n; std::cin >> n;
+  auto items = std::vector<int>(n);
+  for (auto &it : items) std::cin >> it;
+  int volume; std::cin >> volume;
+  std::sort(ALL(items));
+  int lo = 0, hi = n - 1;
+  while (lo < hi) {
+    int mid = (lo + hi) >> 1;
+    if (items[mid] > volume) hi = mid;
+    else lo = mid + 1;
   }
-  std::cout << maxx;
+  volume = items[lo];
+  // DBG(volume);
+  int ans = 0;
+  for (int i = 0; i < lo && volume >= items[i]; ++i) volume -= items[i], ++ans;
+  std::cout << ans << "\n"; 
 }
 
 bool rt = false;
@@ -37,3 +46,7 @@ signed main() {
   else solve();
   return (0 ^ 0);
 }
+
+
+
+

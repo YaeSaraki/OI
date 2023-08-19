@@ -1,16 +1,13 @@
 /**
- * @problem:
- * @link:
- * @category:
- * @date:
+ * @problem: 
+ * @link: 
+ * @category: 
+ * @date: 
  * @Author: YaeSaraki
  **/
 #include <algorithm>
 #include <iostream>
 #include <vector>
-#include <climits>
-#include <cmath>
-#include <numeric>
 
 #define ALL(v) v.begin(), v.end()
 #define DBG(x) std::cout << #x << " = " << (x) << '\n'
@@ -19,13 +16,7 @@
 using i64 = int64_t;
 using PI = std::pair<int, int>;
 
-inline void solve() {
-  int maxx = 0, n = 1e9;
-  for (int i = 0; i < n; ++i) {
-    maxx = std::max(i, maxx);
-  }
-  std::cout << maxx;
-}
+inline void solve() {}
 
 bool rt = false;
 signed main() {
