@@ -44,7 +44,7 @@ inline void solve() {
     /* 加上最小边d. */
     ans += d;
 
-    /* 遍历该点, 堆定即为边权最小的边.*/
+    /* 遍历该点, 堆顶即为边权最小的边.*/
     for (auto [y, v] : edge[x])
       if (!vis.count(y)) heap.emplace(v, y);
   }

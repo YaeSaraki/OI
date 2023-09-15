@@ -16,6 +16,9 @@
 using i64 = long long;
 using PI = std::pair<int, int>;
 
+
+
+
 int n, m;
 auto c = std::vector<int>();
 

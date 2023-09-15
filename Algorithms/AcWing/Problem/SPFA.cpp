@@ -37,7 +37,7 @@ inline void solve() {
     edge[x].emplace_back(y, v);
   }
 
-  dis[1] = 0, vis[1] = true;
+  dis[1] = 0;
   que.emplace(1);
 
   while (!que.empty()) {

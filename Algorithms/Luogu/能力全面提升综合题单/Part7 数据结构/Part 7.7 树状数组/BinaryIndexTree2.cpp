@@ -1,10 +1,3 @@
-/**
- * @problem: P3368 【模板】树状数组 2
- * @link: https://www.luogu.com.cn/problem/P3368
- * @category: BinaryIndexTree
- * @date:
- * @Author: YaeSaraki
- **/
 #include <algorithm>
 #include <iostream>
 #include <vector>

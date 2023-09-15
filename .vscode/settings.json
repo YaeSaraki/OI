@@ -147,12 +147,19 @@
 /// clangd
 "clangd.checkUpdates": true,
 "clangd.arguments": [
-   "--query-driver=/usr/bin/clang++",  /// clang 路径，使用命令 which clang++ 获取的的路径
+  //  "--query-driver=/usr/bin/clang++",  /// clang 路径，使用命令 which clang++ 获取的的路径
    "--clang-tidy",                  /// clang-tidy功能
    "--clang-tidy-checks=performance-*,bugprone-*",
    "--all-scopes-completion",       /// 全局补全（会自动补充头文件）
    "--completion-style=detailed",   /// 更详细的补全内容
    "--header-insertion=iwyu",       /// 补充头文件的形式
    "--pch-storage=disk"            /// pch优化的位置
-]
+],
+  "clangd.fallbackFlags": [
+      // 设置clangd代码检查的c++版本，目前默认是c++14
+      "-std=c++20",
+      // 增加项目自身头文件依赖路劲，因为使用vs2019编译不会生成compile_command.json文件，项目自己的头文件就不会找到
+      "-ID:/MinGW64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++" // 第三方依赖的头文件目录
+    ]
+
 }

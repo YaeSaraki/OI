@@ -1,39 +1,46 @@
-/**
- * @problem:
- * @link:
- * @category:
- * @date:
- * @Author: YaeSaraki
- **/
 #include <algorithm>
 #include <iostream>
 #include <vector>
-#include <climits>
-#include <cmath>
-#include <numeric>
+#include <array>
 
-#define ALL(v) v.begin(), v.end()
-#define DBG(x) std::cout << #x << " = " << (x) << '\n'
-//#define int long long
+#define int long long
+using namespace std;
 
-using i64 = int64_t;
 using PI = std::pair<int, int>;
+using i64 = __int64_t;
+
+
+const int kN = 5e5 + 233;
+auto edge = std::array<std::vector<int>, kN>();
+
+void DFS(int u) {
+  
+  for (int x : edge[u]) {
+    DFS(x);
+  }
+}
 
 inline void solve() {
-  int maxx = 0, n = 1e9;
-  for (int i = 0; i < n; ++i) {
-    maxx = std::max(i, maxx);
+  int n; std::cin >> n;
+  while (n--) {
+    int x, y; std::cin >> x >> y;
+    edge[x].emplace(y);
   }
-  std::cout << maxx;
+
+  int ans = 0;
+  for (int x : edge[1]) {
+    DFS(x);
+  }
 }
 
 bool rt = false;
 signed main() {
-  std::ios::sync_with_stdio(false); std::cin.tie(nullptr); std::cout.tie(nullptr);
+  ios::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);
 #ifndef ONLINE_JUDGE
   freopen("test.in", "r", stdin);
 #endif
-  if (rt) { int T; std::cin >> T; while (T--) solve(); }
+  if (rt) { int T; cin >> T; while (T--) solve(); }
   else solve();
   return (0 ^ 0);
 }
+
